@@ -1,5 +1,5 @@
 # macOS-foldericon
-Icons of folders in MacOS.
+Icons of folders for MacOS.
 
 # Build icns file
 png2icns.sh is shell script to build icns file ans iconset dolder.
@@ -7,7 +7,7 @@ png2icns.sh is shell script to build icns file ans iconset dolder.
 png2icns.sh needs ImageMagick and iconutil.
 
 Execute a following command in a terminal.
-```bash
+```bashÂ
 ./png2icns.sh [image path]
 ```
 

@@ -1,0 +1,28 @@
+{
+  "name": "macos-foldericon",
+  "version": "1.0.0",
+  "description": "Icons of folders in MacOS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/botamochi6277/macOS-foldericon.git"
+  },
+  "keywords": [
+    "macOS",
+    "Finder"
+  ],
+  "author": "botamochi6277",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/botamochi6277/macOS-foldericon/issues"
+  },
+  "homepage": "https://github.com/botamochi6277/macOS-foldericon#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-ect": "^0.1.2"
+  }
+}

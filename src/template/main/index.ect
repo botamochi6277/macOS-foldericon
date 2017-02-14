@@ -1,0 +1,15 @@
+<% block 'title': %>Top<% end %>
+
+<% extend 'layout/default.ect' %>
+<% include 'partials/menu.ect' %>
+<h1><%= @projectName %></h1>
+
+<% include 'partials/icons.ect' %>
+<% include 'partials/credit.ect' %>
+<% block 'scripts': %>
+<script>
+$(function(){
+  console.log("load")
+})
+</script>
+<% end %>
