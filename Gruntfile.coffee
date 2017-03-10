@@ -34,7 +34,8 @@ module.exports = (grunt) ->
             {name:"R" , url:"r_folder.png",desc:""},
             {name:"Raspberry Pi" , url:"raspi_folder.png",desc:"Icon image is adapted from <a href='https://en.wikipedia.org/wiki/File:Raspberry_Pi_Logo.svg' target='_brank'>Wikipedia's image</a>."},
             {name:"TeX" , url:"tex_folder.png",desc:""},
-            {name:"Unity" , url:"unity_folder.png",desc:"Icon image is adapted from <a href='https://unity3d.com/jp/public-relations/brand' target='_brank'>an official logo image</a>."}
+            {name:"Unity" , url:"unity_folder.png",desc:"Icon image is adapted from <a href='https://unity3d.com/jp/public-relations/brand' target='_brank'>an official logo image</a>."},
+            {name:"C++" , url:"unity_folder.png",desc:"Icon image is adapted from <a href='https://github.com/file-icons/source' target='_brank'>file-icons/source</a>."}
         ]
 
     watch:
